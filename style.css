@@ -1,0 +1,44 @@
+marquee{
+	background-color: white;
+	font-size: 15px;
+	padding: 20px;
+	color: #ff0000;
+}
+#navmenu{
+	font-size: 20px;
+	color: white;
+}
+body{
+	background-color: orange;
+	margin-left: auto;
+	padding-left: 100px;
+	padding-right:100px;
+}
+#title{
+	color: black;
+	font-size: 30px;
+	font-family: georgian;
+	padding-right: 250px;
+	padding-left: 250px;
+}
+#logo{
+	padding-left: 350px;
+	padding-right: 350px;
+}
+#slider{
+	color: white;
+	font-size: 20px;
+}
+p{
+	color: white;
+	font-size: 20px;
+}
+li{
+	color: white;
+	font-size: 20px;
+}
+table{
+	background-color: white;
+	color: #ff0000;
+	font-size: 20px;
+}
