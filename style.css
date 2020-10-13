@@ -1,0 +1,76 @@
+body{
+	background-color: red;
+	padding-left: 100px;
+	padding-right:100px;
+}
+.header{
+	background-color: #bdf7f1;
+	height: 150px;
+}
+.header-logo{
+	float: left;
+	padding: 30px 40px 30px;
+}
+.header-list li{
+	list-style: none;
+	float: left;
+	padding: 65px 30px;
+	font-size: 25px;
+	font-family: georgian;
+	color: navy
+}
+.main{
+	background-color: white;
+	height: 1630px;
+}
+marquee{
+	font-size:15px;
+}
+.main-content-inti h1{
+	padding-right: 500px;
+	padding-left: 500px;
+}
+.main-content-inti h2{
+	padding-right: 440px;
+	padding-left: 440px;
+}
+.main-content-inti p{
+	padding-right: 30px;
+	padding-left: 30px;
+	font-size: 20px;
+}
+.main-content-inti h3{
+	padding-right: 500px;
+	padding-left: 500px;
+	font-size: 20px;
+}
+.main-content-inti ul{
+	font-size: 20px;
+}
+.main-content-lain h3{
+	padding-right: 350px;
+	padding-left: 350px;
+}
+.inti{
+	padding-right: 100px;
+	padding-left: 100px;
+}
+.inti-dua{
+	padding-right: 53px;
+	padding-left: 53px;
+	font-size: 20px;
+}
+.main-comment{
+	padding-right: 30px;
+	padding-left: 30px;
+	font-size: 20px;
+	font: bold;
+}
+.footer{
+	background-color: #ceccf3;
+	height: 50px;
+}
+.footer-logo{
+	float: right;
+	padding: 20px 20px 20px;
+}
