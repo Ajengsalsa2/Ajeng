@@ -1,0 +1,50 @@
+@media screen and (max-width: 1000px ) {
+	.header {
+		height: auto;
+	}
+
+	.container { 
+		width: 50%;
+		font-size: 24px;
+	}
+	.contents {
+		width: 50%;
+		float: none;
+		font-size: 23px
+	}
+	.contents-inti {
+		width: 50%;
+		
+	}
+	.contents-inti-dua {
+		width: 50%;
+		
+	}
+}
+
+@media screen and (max-width: 670px ) {
+	.header {
+		height: auto;
+	}
+	.header-list {
+		display: none;
+	}
+
+	.container { 
+		display: none;
+		font-size: 21px
+	}
+	.contents {
+		width: 100%;
+		float: none;
+		font-size: 20px
+	}
+	.contents-inti {
+		width: 100%;
+		
+	}
+	.contents-inti-dua {
+		width: 100%;
+		
+	}
+}
